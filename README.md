@@ -1,5 +1,5 @@
 ![ ](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxxcHU0NDZobzBvMGQ0M3JzeXk3cnlsdXcwYms1bHRldmFxaXR1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif)
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" />
+
 
 # 💫 About Me:
 🔭 I'm currently working on IoT Systems as "Software Analyst and Designer"<br>🎓 Graduate in computer engineering<br>🔒 Master's student in Cybersecurity<br>🟢 Not all of my work is here; these are just some of my university projects and other things. To see all of my work, contact me and visit https://git.g-home-lab.com with the credentials you receive.<br>
