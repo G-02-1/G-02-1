@@ -1,4 +1,4 @@
-![Hacker Cat Typing]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-agent-grok-8m7nAJTYvzNUh54HQm))
+![ ](https://giphy.com/gifs/pudgypenguins-ai-agent-grok-8m7nAJTYvzNUh54HQm)
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" />
 
