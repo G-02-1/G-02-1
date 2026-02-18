@@ -1,5 +1,3 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxxcHU0NDZobzBvMGQ0M3JzeXk3cnlsdXcwYms1bHRldmFxaXR1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="600" alt="Geek GIF" />
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxxcHU0NDZobzBvMGQ0M3JzeXk3cnlsdXcwYms1bHRldmFxaXR1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="100%" alt="Geek GIF" />
 
 # 💫 About Me:
