@@ -6,10 +6,11 @@
 🔭 I'm currently working on IoT Systems as "Software Analyst and Designer"<br>🎓 Graduate in computer engineering<br>🔒 Master's student in Cybersecurity<br>🟢 Not all of my work is here; these are just some of my university projects and other things. To see all of my work, contact me and visit https://git.g-home-lab.com with the credentials you receive.<br>
 
 # 🤝🏼 Organizations:
-[![ CCIT 2026 ](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=red)](https://github.com/CCIT-2026)
-[![cybers3clab](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/cybers3clab)
+- CCIT 2026 (Owner): CCIT 2026 A/D Tools Suite ➡️ [![CCIT 2026](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=red)](https://github.com/CCIT-2026)
+- Cybers3clab (Member): CCIT 2026 Tutor's Organization ➡️ [![cybers3clab](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/cybers3clab)
 
 ## 🌐 Socials:
+[![Signal](https://img.shields.io/badge/Signal-%230077B5.svg?logo=signal&logoColor=white)](https://signal.me/#eu/hS3rFHN8IZ9bSxytBHP8FFqxzXjCvv2EOSf57fvVdjp82urGdWdIrrlgH52KXe0Q)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Giovanni-Lorenzo-Murfuni) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gyanny_ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murfunig@gmail.com) 
 
 # 💻 Tech Stack:
